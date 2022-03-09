@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# To install neccessary dependencies run the following command inside the [black-fire-front-end](https://github.com/Ramasindi/scalling-octo-dollop/tree/master/black-fire-front-end) folder
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
