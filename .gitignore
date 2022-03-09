@@ -1,3 +1,27 @@
 WebAPI/bin/
 WebAPI/obj/
 WebAPI/Photos/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+black-fire-front-end/node_modules
+black-fire-front-end/.pnp
+black-fire-front-end/.pnp.js
+
+# testing
+black-fire-front-end/coverage
+
+# production
+black-fire-front-end/build
+
+# misc
+black-fire-front-end.DS_Store
+black-fire-front-end/.env
+black-fire-front-end/.env.local
+black-fire-front-end/.env.development.local
+black-fire-front-end/.env.test.local
+black-fire-front-end/.env.production.local
+
+black-fire-front-end/npm-debug.log*
+black-fire-front-end/yarn-debug.log*
+black-fire-front-end/yarn-error.log*
